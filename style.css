@@ -1,0 +1,89 @@
+header {
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+img {
+  width: 80%;
+}
+
+main {
+  position: relative;
+}
+
+.anakin1 {
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+  
+}
+aside {
+  position: absolute;
+  bottom: 20px;
+  left: 25%;
+}
+div {
+  width: 700px;
+  margin: 0 auto;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+blockquote {
+  width: 100%;
+  padding: 5px;
+  background: #222;
+  margin: 0;
+  position: relative;
+  font-family: 'Abril Fatface', cursive;
+}
+
+blockquote::before {
+  content: '\201C';
+  position: absolute;
+  color: white;
+  font-size: 100px;
+  top: -30px;
+  
+}
+
+blockquote p {
+
+  background: "222";
+  color: white;
+  text-align: center;
+  font-size: 45px;
+  
+}
+
+
+
+/* li {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+} */
+
+.line {
+  height: 5px;
+  background: black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+h4 {
+  margin-top: 0px;
+}
+
+.bigger {
+  margin: 60px 0;
+  text-transform: uppercase;
+}
